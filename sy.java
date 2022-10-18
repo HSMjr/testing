@@ -26,6 +26,7 @@ class DailyWorker extends worker {
         return salary;
     }
 }
+//ok 
 
 class SalariedWorker extends worker {
     public int salary;
