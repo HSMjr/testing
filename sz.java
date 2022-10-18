@@ -22,7 +22,7 @@ class employee {
     int GetSalary() {
         return this.salary;
     }
-
+//siuuuuuuuuuuuuuuuuu
     void IncSalary(int percent) {
         this.salary += ((0.01 * percent) * this.salary);
     }
