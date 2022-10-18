@@ -12,7 +12,7 @@ class worker {
         this.salary_rate = salary_rate;
     }
 }
-
+///ok last one here
 class DailyWorker extends worker {
     public int salary;
 
